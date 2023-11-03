@@ -51,7 +51,7 @@ def apply_sepia_effect(src_image):
 
 
 
-def apply_Cold_effect(frame):
+def apply_Warm_effect(frame):
     frame=frame.astype(np.float32)
     frame[:,:,0]-=10
     frame[:,:,1]-=25
@@ -62,7 +62,7 @@ def apply_Cold_effect(frame):
     
     
 
-def apply_Warm_effect(frame):
+def apply_Cold_effect(frame):
     frame=frame.astype(np.float32)
     frame[:,:,0]+=10
     frame[:,:,1]+=25
