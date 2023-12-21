@@ -6,5 +6,3 @@ rembg
 av==8.0.3
 streamlit-webrtc==0.45.1
 av
-union==0.1.8
-ramdom
