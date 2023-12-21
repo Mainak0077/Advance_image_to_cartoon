@@ -1,8 +1,8 @@
-streamlit==1.18.0
+streamlit
 opencv-python-headless
-numpy==1.21.3
-Pillow==8.2.0
+numpy
+Pillow
 rembg
 av==8.0.3
-streamlit-webrtc==0.45.1
-av
+streamlit-webrtc
+
