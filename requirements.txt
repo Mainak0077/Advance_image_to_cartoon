@@ -4,7 +4,7 @@ numpy==1.21.3
 Pillow==8.2.0
 rembg
 av==8.0.3
-streamlit-webrtc==0.39.0
+streamlit-webrtc==0.45.1
 av
 random
 union
