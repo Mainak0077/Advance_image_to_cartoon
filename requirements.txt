@@ -2,5 +2,5 @@ streamlit
 opencv-python-headless
 pillow
 streamlit_webrtc
-threading
+threading==1.3
 tempfile
