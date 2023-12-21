@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless
+pillow
+streamlit_webrtc
+threading
+tempfile
