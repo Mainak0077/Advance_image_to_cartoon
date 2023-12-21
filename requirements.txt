@@ -1,5 +1,7 @@
-streamlit
-opencv-python-headless
-pillow
-streamlit_webrtc
-tempfile
+streamlit==1.18.0
+opencv-python-headless==4.5.1
+numpy==1.21.3
+Pillow==8.2.0
+rembg==1.0.26
+av==8.0.3
+streamlit-webrtc==0.39.0
