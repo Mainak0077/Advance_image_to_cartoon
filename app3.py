@@ -227,7 +227,7 @@ def main():
     col1, col2, col3, col4 = st.columns(4)
 
     if choice == "Browse an Image":
-        st.set_option('deprecation.showfileUploaderEncoding', False)
+        # st.set_option('deprecation.showfileUploaderEncoding', False)
         image_file = st.file_uploader("Upload Image", type=['jpg', 'png', 'jpeg'])
 
         if image_file is not None:
